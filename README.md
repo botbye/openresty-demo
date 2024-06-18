@@ -26,7 +26,7 @@ You can send a request with an invalid token in the header using e.g. with `curl
 
 ```
 curl --location --request POST 'http://localhost:8081/' \
---header 'X-Token: invalidToken'
+--header 'X-Token: invalidString'
 ```
 
 Your request will appear in the overview of your project as declined.

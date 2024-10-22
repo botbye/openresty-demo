@@ -2,7 +2,7 @@
 
 This repository offers an example of using the BotBye OpenResty module with Docker.
 
-For more details, please refer to our [documentation](https://docs.botbye.com/server-side-integration/OpenResty/).
+For more details, please refer to our [documentation](https://docs.botbye.com/docs/server-side/open-resty).
 
 ## 1 - Configuration
 
